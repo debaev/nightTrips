@@ -1,1 +1,1 @@
-# https://your-github-account.github.io/night-trips
+# https://debaev.github.io/night-trips
