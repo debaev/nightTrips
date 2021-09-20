@@ -1,2 +1,1 @@
-# nightTrips
-# https://github.com/debaev/nightTrips.git
+# https://your-github-account.github.io/night-trips
